@@ -14,3 +14,8 @@ You need to write regex that will validate a password to make sure it meets the 
 * Contains a number
 
 Valid passwords will only be alphanumeric characters.
+
+## [Count characters in your string](https://github.com/McChama/javascript-katas/blob/main/CountCharactersInYourString.js)
+The main idea is to count all the occurring characters in a string. If you have a string like `aba`, then the result should be `{'a': 2, 'b': 1}`.
+
+What if the string is empty? Then the result should be empty object literal, `{}`.
